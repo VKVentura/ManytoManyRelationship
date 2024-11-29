@@ -1,0 +1,24 @@
+// Sched
+{
+_id: "1"
+stud_name: "Leo"
+school: "OrCa",
+}
+// schedule one 
+{
+subject: Math
+teacher: Marcel
+schedule: Monday
+}
+// schedule two
+{
+subject: "English",
+teacher: "Elinor",
+schedule: "Tuesday",
+}
+// schedule three
+{
+subject: "Science",
+teacher: "Maritess",
+schedule: "Wednesday",
+}
